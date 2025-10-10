@@ -1,0 +1,2 @@
+Since cellchat runs in R I quickly combine the annotated ectoderm and mesenchyme per stage and export it ready for R
+Then run cellchat and produce the plots. Most of the plotting is based on the functions in cellchat, but some have been adapted a little to suit the needs of the paper.
